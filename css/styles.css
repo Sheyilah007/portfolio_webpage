@@ -1,0 +1,43 @@
+body{
+    padding : 0px;
+    margin: 0;
+}
+h1,h3{
+    text-align: center;
+}
+ .home_right_img {
+          padding-top: 110px; 
+        }
+ .col-lg-7 {
+      vertical-align: middle;
+      align-self: center; 
+    } 
+.gmail_icon{
+    height: 10px;
+    width: 15px;
+}
+.phone_icon{
+    height: 20px;
+    width: 25px;
+}
+.link_icon{
+    height: 20px;
+    width: 25px;
+}
+.git_icon{
+    height: 20px;
+    width: 25px;
+}
+
+.about-image{
+    float: left;
+    height: 150px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 50%;
+}
+
+.photos{
+    height: 180px;
+    width: 150px;
+}
